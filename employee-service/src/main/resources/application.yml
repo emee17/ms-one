@@ -17,6 +17,8 @@ spring:
     generate-ddl: true
   application:
     name: EMPLOYEE-SERVICE
+  zipkin:
+    base-url: http://127.0.0.1:9411/
     
 server:
   port: 9002 
