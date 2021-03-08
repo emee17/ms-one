@@ -8,5 +8,5 @@ spring:
     config:
       server:
         git:
-          uri: 
+          uri: https://github.com/emee17/ms-one
           clone-on-start: true
